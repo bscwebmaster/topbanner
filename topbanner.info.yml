@@ -1,0 +1,5 @@
+name: Top Banner
+description: Adds a banner to the top of all pages
+package: Other
+type: module
+core_version_requirement: ^9
